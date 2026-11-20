@@ -1,9 +1,5 @@
 # Healthcare-Data-Analysis-and-Insights
 Healthcare data analytics in Excel: cleaning records, engineering clinical risk tiers, merging tables via VLOOKUP, and building an interactive dashboard with weight and diabetes slicers to uncover age correlations, medical history patterns, and cost drivers.
-# Healthcare Data Analysis and Insights
-
-## Project Name
-**Healthcare Data Analysis and Insights**
 
 ## Project Overview
 This project analyzes a multi-table healthcare dataset covering customer profiles, medical examinations, and hospitalization details to uncover patterns in patient health profiles, medical histories, and healthcare costs. Using Microsoft Excel, raw records are cleaned, standardized, categorized into clinical risk tiers, merged via `VLOOKUP` into a unified `Healthcare` table, and visualized through pivot tables, analytical charts, and an interactive slicer-driven dashboard.
