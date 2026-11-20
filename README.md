@@ -70,3 +70,6 @@ healthcare-data-analysis-insights/
     ├── cancer_and_transplant_charts.png
     ├── charges_by_status_and_tier.png
     └── age_correlation_plots.png
+
+**Author:** ✏️
+Sree Sidhi
